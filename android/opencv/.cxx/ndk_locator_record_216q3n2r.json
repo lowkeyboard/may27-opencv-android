@@ -1,0 +1,11 @@
+{
+  "ndk": "/home/ceiw/android-sdk/ndk/20.1.5948944",
+  "revision": {
+    "mMajor": 20,
+    "mMinor": 1,
+    "mMicro": 5948944,
+    "mPreview": 0,
+    "mPrecision": "MICRO",
+    "mPreviewSeparator": " "
+  }
+}

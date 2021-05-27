@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/ceiw/Desktop/may27/android/opencv/.cxx/cmake/debug/x86_64'
+ninja: no work to do.

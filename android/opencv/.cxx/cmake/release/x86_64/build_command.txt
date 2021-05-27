@@ -1,0 +1,22 @@
+                Executable : /home/ceiw/android-sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/home/ceiw/Desktop/may27/android/opencv/libcxx_helper
+-DCMAKE_FIND_ROOT_PATH=/home/ceiw/Desktop/may27/android/opencv/.cxx/cmake/release/prefab/x86_64/prefab
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_TOOLCHAIN_FILE=/home/ceiw/android-sdk/ndk/20.1.5948944/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=x86_64
+-DANDROID_NDK=/home/ceiw/android-sdk/ndk/20.1.5948944
+-DANDROID_PLATFORM=android-21
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DCMAKE_ANDROID_NDK=/home/ceiw/android-sdk/ndk/20.1.5948944
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/ceiw/Desktop/may27/android/opencv/build/intermediates/cmake/release/obj/x86_64
+-DCMAKE_MAKE_PROGRAM=/home/ceiw/android-sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_STL=c++_shared
+-B/home/ceiw/Desktop/may27/android/opencv/.cxx/cmake/release/x86_64
+-GNinja
+jvmArgs : 
+
+Build command args:

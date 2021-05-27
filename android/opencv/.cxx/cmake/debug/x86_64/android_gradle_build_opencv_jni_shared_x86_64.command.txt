@@ -1,0 +1,7 @@
+Executable : /home/ceiw/android-sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/ceiw/Desktop/may27/android/opencv/.cxx/cmake/debug/x86_64
+opencv_jni_shared
+jvmArgs : 
+
